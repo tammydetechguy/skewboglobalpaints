@@ -1,0 +1,6 @@
+{
+  "name": "Skewbo Global Paint Limited",
+  "description": "Sales and supply of premium marine, industrial, protective, architectural, and construction paints, building materials and plumbing materials in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
